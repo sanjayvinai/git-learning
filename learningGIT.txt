@@ -1,6 +1,8 @@
-this is 1st first sentence (from second branch)
-this is 1st second sentence
+
+this is 2nd brnach sentence (from second branch)
+this is 2nd second sentence
 this is third sentence
 this is fourth sentence
 this is fifth sentence (from second brach)
-this is 1st sixth sentence
+this is sixth sentence from 2nd branch
+
